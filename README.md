@@ -2,7 +2,7 @@
 
 ## Opis projektu
 
-Przetwarzanie-obrazu to projekt mający na celu rozwój narzędzi i technik do analizy oraz przetwarzania obrazów. Projekt zawiera różnorodne algorytmy oraz przykłady zastosowań w dziedzinie przetwarzania obrazu, w tym interpolację, mozaikowanie, demozaikowanie, a także skalowanie i rotację.
+Przetwarzanie obrazu to projekt mający na celu rozwój narzędzi i technik do analizy oraz przetwarzania obrazów. Projekt zawiera różnorodne algorytmy oraz przykłady zastosowań w dziedzinie przetwarzania obrazu, w tym interpolację, mozaikowanie, demozaikowanie, a także skalowanie i rotację.
 
 ## Funkcjonalności
 
